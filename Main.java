@@ -1,28 +1,3 @@
-///usr/bin/env jbang "$0" "$@" ; exit $?
-//JAVA 21
-//DEPS org.joml:joml:1.10.8
-//DEPS org.lwjgl:lwjgl:3.4.3
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-windows
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-windows-arm64
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-linux
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-linux-arm64
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-macos
-//DEPS org.lwjgl:lwjgl:3.4.3:natives-macos-arm64
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-windows
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-windows-arm64
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-linux
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-linux-arm64
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-macos
-//DEPS org.lwjgl:lwjgl-glfw:3.4.3:natives-macos-arm64
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-windows
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-windows-arm64
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-linux
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-linux-arm64
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-macos
-//DEPS org.lwjgl:lwjgl-opengl:3.4.3:natives-macos-arm64
-
 package com.spacegame;
 
 import org.joml.Matrix4f;
