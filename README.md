@@ -10,7 +10,7 @@ mvn clean compile exec:java
 Then, the game should open after some seconds, maybe a bit longer.
 Bear with me this is a work in process.
 
-Like and comment on my X (twitter) page @marcusrdriguez so that I know what to improve for the game
+Like and comment on my X (twitter) page @marcusrdriguez (marcusrodriguez without an 'o') so that I know what to improve for the game
 when it eventually gets uploaded to STEAM. 
 
 Thank you and enjoy MOTHERSHIP.
